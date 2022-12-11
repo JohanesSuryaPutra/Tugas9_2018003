@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Wisata</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="deskription_wisata">Borobudur merupakan sebuah candi peninggalan  dari jaman kerajaan Hindu Budha di Nusantarara</string>
+
+    <string-array name="wisata">
+        <item>Borobudur</item>
+        <item>Raja Ampat</item>
+        <item>Jepang</item>
+        <item>Korea Selatan</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.4</item>
+        <item>4.5</item>
+        <item>4.6</item>
+        <item>4.7</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>ini Borobudur</item>
+        <item>ini Raja Ampat</item>
+        <item>ini Jepang</item>
+        <item>ini Korea Selatan</item>
+    </string-array>
+</resources>
